@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="MyLiveStream" tvg-name="My Live Stream" group-title="Live",My Live Stream
+http://xoxohhhh:1234mnbb@movie2me.ddns.net:8080/hls/mystream.m3u8
